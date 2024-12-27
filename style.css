@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align:center;
+}
+.main{
+    display:flex;
+    height:300px;
+    width:300px;
+    justify-content: space-around;
+
+    margin:auto;
+    flex-wrap:wrap;
+
+}
+.box-color{
+    height:120px;
+    width:120px;
+    border:5px solid black;
+    border-radius:10%;
+    margin:0.4rem;
+    
+}
+.red{
+    background-color: rgb(250, 122, 122);
+}
+.sea{
+    background-color: rgb(155, 234, 234);
+}
+.orange{
+    background-color: rgb(255, 171, 16);
+}
+.green{
+    background-color: rgb(207, 255, 207);
+}
+.flash{
+    background-color:white;
+}
+.userflash{
+    background-color:green;
+}
