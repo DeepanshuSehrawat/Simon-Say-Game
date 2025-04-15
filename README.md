@@ -5,7 +5,7 @@ Test your memory skills by repeating the pattern of lights and sounds as they ge
 
 ## 🚀 Live Demo
 
-[Click to play the game!]-> (#) *(https://deepanshusehrawat.github.io/Simon-Say-Game/)*
+[Click to play the game!]-> *(https://deepanshusehrawat.github.io/Simon-Say-Game/)*
 
 ---
 
